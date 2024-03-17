@@ -2,7 +2,8 @@ body {
 	background-color: #f5f5f5;
 	font-family: 'Roboto', sans-serif;
 	background-image: url("background.JPG");
-	background-size: 1800px 900px;
+	background-repeat: no-repeat;
+	background-size: auto;
 }
 
 #timer {
